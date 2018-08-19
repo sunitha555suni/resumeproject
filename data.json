@@ -1,0 +1,59 @@
+{
+	"details":{
+		"image":"image.png",
+		"name":"Sunitha Amara",
+		"phoneno":"9989999914",
+		"email":"sunithaamara7@gmail.com",
+		"address":"Vignan Nirula College,Guntur."
+
+	},
+	"career":{
+		"info":"she is very goodlooking ,super smart,hard working nature,kind hearted,strong,beautifull ,awesome,hard worker,work minded,n your resume. Well-written resume objective statements."
+
+	},
+	"educationalqualification":[
+		{
+		"qualification":"B.tech",
+		"institute":"vignan",
+		"year":"2016-2020",
+		"percentage":"98%"
+	},
+	{
+		"qualification":"inter",
+		"institute":"sri chaitanya college",
+		"year":"2014-2016",
+		"percentage":"99%"
+	},
+	{
+		"qualification":"ssc",
+		"institute":"nobel",
+		"year":"2013-2014",
+		"percentage":"95%"
+	
+	}
+],
+
+
+"skills":[{
+"title":"programming languages",
+"info":["c","oops","java"]
+},
+{
+"title":"databases",
+"info":["sql","mysql"]
+},
+{
+"title":"operating systems",
+"info":["linux","mac os"]
+}
+],
+"achivements":[
+{
+	"title":"got certified in IOT"
+},
+
+{
+"title":"got certified in jkc"
+}
+]
+}
